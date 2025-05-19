@@ -1,5 +1,3 @@
 <template>
-  <NuxtRouteAnnouncer />
-  <NuxtLoadingIndicator />
-  <NuxtPage />
+<h1> TAIK KAU</h1>
 </template>
