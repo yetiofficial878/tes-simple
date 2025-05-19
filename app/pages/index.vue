@@ -6,6 +6,9 @@ const color = useState('color', () => colors[Math.floor(Math.random() * colors.l
 
 <template>
   <div class="centered">
+    <h1>
+      BIGIK PETAK
+    </h1>
     <h1 :style="{ color }">
       {{ runtimeConfig.public.helloText }}
     </h1>
